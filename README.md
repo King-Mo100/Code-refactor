@@ -8,7 +8,7 @@ This website was originally created by Horiseon, I have completed a small amount
 
 ## Links
 Link to website: http://127.0.0.1:5500/index.html#search-engine-optimization
-
+Link to Github: https://github.com/King-Mo100/Code-refactor
 
 ## Resources
 
