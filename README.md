@@ -1,6 +1,6 @@
 # Horiseon Code-Refactor 
 
-Horiseon is a website that informs readers about Search engine optimization(SEO), Online reputation management and Social media marketing.
+<p>Horiseon is a website that informs readers about Search engine optimization(SEO), Online reputation management and Social media marketing.</p>
 
 ## About this Repository
 
