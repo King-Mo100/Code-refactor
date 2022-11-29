@@ -11,6 +11,7 @@ This website was originally created by Horiseon, I have completed a small amount
 <li>Link to website: http://127.0.0.1:5500/index.html#search-engine-optimization</li>
 <li>Link to Github: https://github.com/King-Mo100/Code-refactor</li>
 </ul>
+
 ## Resources
 <ul>
 <li>https://www.w3schools.com/tags/tag_meta.asp</li>
