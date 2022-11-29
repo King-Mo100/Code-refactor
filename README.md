@@ -11,8 +11,9 @@ Link to website: http://127.0.0.1:5500/index.html#search-engine-optimization
 Link to Github: https://github.com/King-Mo100/Code-refactor
 
 ## Resources
-
-https://www.w3schools.com/tags/tag_meta.asp
-https://www.w3schools.com/tags/tag_li.asp
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.w3schools.com/tags/att_img_alt.asp
+<ul>
+<li>https://www.w3schools.com/tags/tag_meta.asp</li>
+<li>https://www.w3schools.com/tags/tag_li.asp</li>
+<li>https://www.w3schools.com/html/html5_semantic_elements.asp</li>
+<li>https://www.w3schools.com/tags/att_img_alt.asp</li>
+</ul>
